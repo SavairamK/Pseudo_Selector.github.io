@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.main{
+    height: 95vh;
+    width: 60vw;
+    background-image: url('https://www.queensu.ca/gazette/sites/gazettewww/files/assets/WEB%20Coding%20arnold-francisca-nPhl2x4fk2s-unsplash.jpg');
+    background-size: 150% 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    color: white;
+    margin-left: 18rem;
+}
+h2{
+    text-shadow: 5px 5px 5px gray;
+    position: relative;
+    margin-right: 3rem;
+    font-size: 55px;
+}
+.main::before{
+    content: "";
+    height: 95vh;
+    width: 60vw;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    margin-left: 18rem;
+}
