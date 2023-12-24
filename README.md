@@ -1,1 +1,2 @@
-![Pseudo output](https://github.com/SavairamK/Pseudo_Selector.github.io/assets/98964354/9ee604a4-55e5-4ab8-ac30-dc82086ac8d5)
+
+![Pseudo output](https://github.com/SavairamK/Pseudo_Selector.github.io/assets/98964354/98e6ea31-4d60-4ce2-abf8-6808f27de8a8)
